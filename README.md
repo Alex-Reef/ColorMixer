@@ -8,6 +8,7 @@
 - If it is less - the player can continue to add fruits or vegetables, or start the level again.
 
 >**Images:**
+
 ![Image](https://i.imgur.com/8uD1DM5.png)
 ![Image](https://i.imgur.com/l4AA177.png)
 ![Image](https://i.imgur.com/q3KyOGG.png)
